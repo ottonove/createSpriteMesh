@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+div#inputArea {
+  margin: 10px;
+  padding: 10px;
+  background-color: darkseagreen;
+}
